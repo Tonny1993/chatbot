@@ -7,7 +7,8 @@ Para executar o chatbot você deve seguir os passos abaixo no terminal:
   Clonar o repositório: git clone https://github.com/tsansalone/chatbot-fatec-horarios.git
 
   criar o arquivo .env com a sua chave da OpenAI: OPENAI_API_KEY = CHAVE
-    Trocar a palavra CHAVE pela chave da OpenAI
+  
+  Trocar a palavra CHAVE pela chave da OpenAI
 
   Acesse o diretório do projeto: cd chatbot-fatec-horarios
 
